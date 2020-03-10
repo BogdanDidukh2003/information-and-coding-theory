@@ -8,7 +8,7 @@
 
 2. Choose appropriate directory
 
-2. Set up virtual environment (you may skip this step):
+3. Set up virtual environment (you may skip this step):
 
 <code>python -m venv venv</code>
 
@@ -16,11 +16,11 @@
 
 <code>venv\Scripts\activate.bat</code> for Windows
 
-3. Install required libraries: 
+4. Install required libraries: 
 
 <code>pip install -r requirements.txt</code>
 
-4. Run the program:
+5. Run the program:
 
 <code>python main.py</code>
 

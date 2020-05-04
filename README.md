@@ -27,3 +27,7 @@
 ### Lab1
 
 Recreation of input signal using Fourier transform
+
+### Lab3
+
+Converting binary to Grey code and vice versa

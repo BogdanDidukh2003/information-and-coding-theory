@@ -1,2 +1,5 @@
 # information-and-coding-theory
-University
+
+### Lab3
+
+Converting binary to Grey code and vice versa

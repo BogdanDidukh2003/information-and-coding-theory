@@ -30,7 +30,7 @@ Recreation of input signal using Fourier transform
 
 ### Lab3
 
-Converting binary to Grey code and vice versa
+Converting binary to Gray code and vice versa
 
 ### Lab4
 

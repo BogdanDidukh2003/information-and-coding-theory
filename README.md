@@ -36,3 +36,7 @@ Converting binary to Grey code and vice versa
 
 Implementation of even parity check
 
+### Lab5
+
+Implementation of inverse repetition and Manchester error correction codes (ECC)
+

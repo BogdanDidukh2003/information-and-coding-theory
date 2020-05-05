@@ -31,3 +31,8 @@ Recreation of input signal using Fourier transform
 ### Lab3
 
 Converting binary to Grey code and vice versa
+
+### Lab4
+
+Implementation of even parity check
+

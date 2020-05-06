@@ -40,3 +40,7 @@ Implementation of even parity check
 
 Implementation of inverse repetition and Manchester error correction codes (ECC)
 
+### Lab6
+
+Implementation of Hamming Code
+
